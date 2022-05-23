@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <a href="https://twitter.com/rutuchandgude" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rutuchandgude" height="25" width="30" /></a>
 <a href="https://codepen.io/rutuchandgude" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="rutuchandgude" height="25" width="30" /></a>
   <a href="https://www.hackerrank.com/rutuchandgude" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rutuchandgude" height="25" width="30" /></a>
-<a href="https://dev.to/rutuchandgude" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rutuchandgude" height="25" width="30" /></a>
+<a href="https://dev.to/rutuchandgude" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rutuchandgude" height="25" width="30" /></a> 
 <a href="https://instagram.com/rutuchandgude" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rutuchandgude" height="25" width="30" /></a>
 </p>
 
