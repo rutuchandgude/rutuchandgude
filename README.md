@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Full Stack Web Development.
 - 🌱 I’m currently learning ReactJS.
-- 💬  Give me shoutout here
+- 💬  Give me shoutout [here](https://twitter.com/rutuchandgude)
 - 💯Take a look at my portfolio site:https://rutuchandgude.netlify.app/
 - 📫 How to reach me: rutuchandgude@gmail.com
 
