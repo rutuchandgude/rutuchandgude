@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 - 💯Take a look at my portfolio site : https://rutuchandgude.netlify.app/
 - 📫 How to reach me : rutuchandgude@gmail.com
 
+### Connect with me:
+http://simpleicon.com/linkedin_1.html
+
 <img src="https://github-readme-stats.vercel.app/api?username=rutuchandgude&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 
