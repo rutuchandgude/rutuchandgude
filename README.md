@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 ### Connect with me:
 <img src="http://simpleicon.com/linkedin_1.html">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rutuchandgude&&show_icons=true&title_color=react&icon_color=react&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=rutuchandgude&&show_icons=true&title_color=jolly&icon_color=react&text_color=daf7dc&bg_color=151515">
 
 
