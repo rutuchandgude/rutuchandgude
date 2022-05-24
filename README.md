@@ -42,9 +42,8 @@ Here are some ideas to get you started:
   <img src="https://camo.githubusercontent.com/bd2bd127c104ba5c98bb12c70801b075aee1f040009089510f69554300e7ff41/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465">
   <img src="https://camo.githubusercontent.com/92dde1e7c42c013a5fce4dfeee0843f06710bfd38a610885e33a273c7eca0d22/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e65746c6966792d3030433742373f7374796c653d666f722d7468652d6261646765266c6f676f3d6e65746c696679266c6f676f436f6c6f723d7768697465">
  </p>
-
-<img src="https://github-readme-stats.vercel.app/api?username=rutuchandgude&&show_icons=true&title_color=omni&icon_color=jolly&text_color=daf7dc&bg_color=151515">
+ 
+<img src="https://github-readme-stats.vercel.app/api?username=rutuchandgude&count_private=true&show_icons=true&theme=jolly">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rutuchandgude&layout=compact)](https://github.com/rutuchandgude/github-readme-stats)
-
 
